@@ -12,7 +12,7 @@ I am going to *search* here: [google](google.com)
 
 Now here is a picture of my favoriter programming language
 
-![golang](https://en.wikipedia.org/wiki/Go_%28programming_language%29#/media/File:Go_Logo_Blue.svg)
+![golang](https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png)
 
 ### Lists
 
@@ -31,7 +31,7 @@ These are the things I will definately learn:
 > My Games
 
 Name | Rating
-- | -
+-|-
 God of War | 9.9
 RRD2 | 10
 GTA v | 9.8
