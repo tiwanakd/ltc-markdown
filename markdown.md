@@ -37,13 +37,14 @@ These are the things I will definately learn:
 > My Games
 
 Name | Rating
--|-
+-|- <!-- Notice that this ther is no spaces in dashes and | -->
 God of War | 9.9
 RRD2 | 10
 GTA v | 9.8
 
 ### HTML tags
 
+<!-- No inline css is allowed -->
 <p style="background-color:Tomato;">This is some color</p>
 
 ### Code blocks
