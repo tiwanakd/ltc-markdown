@@ -35,9 +35,9 @@ These are the things I will definately learn:
 ### Tables
 
 > My Games
-
+<!-- Notice that this ther is no spaces in dashes and | -->
 Name | Rating
--|- <!-- Notice that this ther is no spaces in dashes and | -->
+-|-
 God of War | 9.9
 RRD2 | 10
 GTA v | 9.8
